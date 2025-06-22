@@ -1,2 +1,2 @@
-# QA-Automation-Testing-Demo
+GitBashRepository
 Testing-Demo
